@@ -4,8 +4,14 @@
 \alias{getLocalBM}
 \title{Executes a biomart query on the given mart object (see \code{\link[biomaRt]{getBM}}}
 \usage{
-getLocalBM(attributes, filters = NULL, values = NULL, mart,
-  verbose = FALSE, uniqueRows = TRUE)
+getLocalBM(
+  attributes,
+  filters = NULL,
+  values = NULL,
+  mart,
+  verbose = FALSE,
+  uniqueRows = TRUE
+)
 }
 \arguments{
 \item{attributes}{a vector of BioMart attributes}

@@ -4,8 +4,13 @@
 \alias{annotateEnsemblBiomart}
 \title{Annotate Ensembl Gene IDs with Entrez GeneIDs, gene symbols, and names using Biomart}
 \usage{
-annotateEnsemblBiomart(ids, mart = ensemblMart("ensembl", species =
-  "hsapiens"), multi = FALSE, orthologue = FALSE, multiOrth = FALSE)
+annotateEnsemblBiomart(
+  ids,
+  mart = ensemblMart("ensembl", species = "hsapiens"),
+  multi = FALSE,
+  orthologue = FALSE,
+  multiOrth = FALSE
+)
 }
 \arguments{
 \item{ids}{Ensembl Gene IDs}

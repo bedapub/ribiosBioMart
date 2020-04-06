@@ -1,7 +1,7 @@
 Package: ribiosBioMart
 Title: Utilities for BioMart annotation service 
-Version: 1.0-7
-Date: 2019-02-14
+Version: 1.0-8
+Date: 2020-04-06
 Authors: 
 Authors@R: c(person("Jitao David", "Zhang", email = "jitao_david.zhang@roche.com", role = c("aut")),
              person("Rudolf", "Biczok", email = "rudolf.biczok@roche.com", role = c("ctb", "cre")))
@@ -31,4 +31,4 @@ Collate:
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.0
