@@ -20,7 +20,6 @@ Imports:
   rlang,
   ribiosUtils
 Suggests: 
-  ribiosBase,
   devtools,
   roxygen2,
   testthat
