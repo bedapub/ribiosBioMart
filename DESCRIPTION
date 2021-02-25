@@ -34,4 +34,4 @@ LazyData: true
 RoxygenNote: 7.1.0
 Remotes:
   github::bedapub/ribiosUtils,
-  github::bedapub/ribiosBase
+  github::Accio/ribiosBase
